@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/DeportesPilar/static/css/main.323d7611.css",
-    "main.js": "/DeportesPilar/static/js/main.2b15c577.js",
+    "main.js": "/DeportesPilar/static/js/main.dd663002.js",
     "static/js/453.264cf425.chunk.js": "/DeportesPilar/static/js/453.264cf425.chunk.js",
     "index.html": "/DeportesPilar/index.html",
     "main.323d7611.css.map": "/DeportesPilar/static/css/main.323d7611.css.map",
-    "main.2b15c577.js.map": "/DeportesPilar/static/js/main.2b15c577.js.map",
+    "main.dd663002.js.map": "/DeportesPilar/static/js/main.dd663002.js.map",
     "453.264cf425.chunk.js.map": "/DeportesPilar/static/js/453.264cf425.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.323d7611.css",
-    "static/js/main.2b15c577.js"
+    "static/js/main.dd663002.js"
   ]
 }
